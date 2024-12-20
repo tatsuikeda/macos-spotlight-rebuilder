@@ -14,7 +14,7 @@ This script requires temporarily disabling System Integrity Protection (SIP). Al
 
 ## Compatibility
 
-- Tested on macOS Sequoia (14.0)
+- Tested on macOS Sequoia (15.0)
 - Should work on macOS Sonoma (14.0) and Ventura (13.0)
 - Works on both Intel and Apple Silicon Macs
 - Compatible with Office 365 for Mac
